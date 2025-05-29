@@ -49,3 +49,6 @@ If you're a developer, designer, or emotional thinker — you’re welcome here.
 ---
 
 ## ⚪ You Are Safe Here.
+🧭 [Read The Creator App Dogma →](./DOGMA.md)
+> ❗ This project is guided by a strict emotional and design philosophy.  
+> See [DOGMA.md](./DOGMA.md)
